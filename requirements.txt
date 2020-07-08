@@ -2,4 +2,5 @@ streamlit
 pandas
 numpy
 datetime
+scikit-learn
 GoogleDriveDownloader
